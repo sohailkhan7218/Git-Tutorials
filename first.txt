@@ -1,1 +1,2 @@
 First git repository created on 9/9/2024 by  sohail khan and refers to the github tutorials
+commit the last changes in the repository to change the action implemented automatically after the user clicks on the get started button 
